@@ -43,7 +43,7 @@ int main()
   }
 
   // Criação de variáveis
-  int num_sub_images = 2;
+  int num_sub_images = 100;
   int largura = 100, altura = 100;
 
   // Alocando memória

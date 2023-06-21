@@ -13,8 +13,6 @@ Compilador: gcc versao 6.3.0-1
 #include <string.h>
 #include <time.h>
 
-#define QTDIMG 2
-
 typedef struct
 {
   int largura;
